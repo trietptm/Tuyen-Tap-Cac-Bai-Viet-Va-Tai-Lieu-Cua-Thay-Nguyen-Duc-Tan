@@ -10,6 +10,10 @@
 ![image](https://github.com/user-attachments/assets/bb6fe894-0206-4423-a324-92b429644512)
 ![image](https://github.com/user-attachments/assets/d7f8afe1-73e4-472b-aa96-4d9946684468)
 
+* Lớp 9 - Về một bài toán tổ hợp hình học
+![image](https://github.com/user-attachments/assets/eba14b01-d1f2-4d6f-b696-b017fe9ea86e)
+![image](https://github.com/user-attachments/assets/c464098a-2fcc-49b4-add5-613574a5bd65)
 
+* 
 
 
