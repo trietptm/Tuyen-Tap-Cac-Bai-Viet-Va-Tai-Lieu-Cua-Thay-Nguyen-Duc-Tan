@@ -19,6 +19,9 @@
 ![image](https://github.com/user-attachments/assets/924d5d05-b20b-4030-894c-e037fca91ed2)
 ![image](https://github.com/user-attachments/assets/3f59d671-97c1-43ce-a41c-01daedb082b5)
 
+* Lớp 9 - Từ dự đoán đến lời giải
+![image](https://github.com/user-attachments/assets/a4b6ba7c-e9ec-468b-a9a3-771aef9c2208)
+![image](https://github.com/user-attachments/assets/ce894d87-686a-4c23-84da-0d1929667194)
 
 
 
