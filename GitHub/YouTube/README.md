@@ -14,6 +14,11 @@
 ![image](https://github.com/user-attachments/assets/eba14b01-d1f2-4d6f-b696-b017fe9ea86e)
 ![image](https://github.com/user-attachments/assets/c464098a-2fcc-49b4-add5-613574a5bd65)
 
-* 
+* Lớp 9 - Tính giá trị biểu thức chứa căn bậc ba
+![image](https://github.com/user-attachments/assets/5cc5e803-f322-48c7-8cff-9520bf407b94)
+![image](https://github.com/user-attachments/assets/924d5d05-b20b-4030-894c-e037fca91ed2)
+![image](https://github.com/user-attachments/assets/3f59d671-97c1-43ce-a41c-01daedb082b5)
+
+
 
 
