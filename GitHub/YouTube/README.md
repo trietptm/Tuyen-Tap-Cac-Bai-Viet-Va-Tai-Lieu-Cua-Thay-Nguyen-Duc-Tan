@@ -22,6 +22,8 @@
 * Lớp 9 - Từ dự đoán đến lời giải
 ![image](https://github.com/user-attachments/assets/a4b6ba7c-e9ec-468b-a9a3-771aef9c2208)
 ![image](https://github.com/user-attachments/assets/ce894d87-686a-4c23-84da-0d1929667194)
+![image](https://github.com/user-attachments/assets/cd7731de-03b8-4bb8-85ed-8146e0dc1125)
+
 
 
 
