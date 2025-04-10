@@ -3,6 +3,16 @@
 ![image](https://github.com/user-attachments/assets/00a05bac-55fb-4558-a602-52cdab3a103f)
 ![image](https://github.com/user-attachments/assets/8c5ee494-a26c-443a-8a4b-5e18a82d1d9d)
 
+## BẤT ĐẲNG THỨC CHỨA CĂN THỨC
+![image](https://github.com/user-attachments/assets/a4b6ba7c-e9ec-468b-a9a3-771aef9c2208)
+![image](https://github.com/user-attachments/assets/ce894d87-686a-4c23-84da-0d1929667194)
+![image](https://github.com/user-attachments/assets/cd7731de-03b8-4bb8-85ed-8146e0dc1125)
+
+## PHƯƠNG PHÁP HỆ SỐ BẤT ĐỊNH TRONG CHỨNG MINH BẤT ĐẲNG THỨC
+![image](https://github.com/user-attachments/assets/a4b6ba7c-e9ec-468b-a9a3-771aef9c2208)
+![image](https://github.com/user-attachments/assets/ce894d87-686a-4c23-84da-0d1929667194)
+![image](https://github.com/user-attachments/assets/cd7731de-03b8-4bb8-85ed-8146e0dc1125)
+
 ## BIẾN ĐỔI CĂN THỨC
 ![image](https://github.com/user-attachments/assets/45894d7d-eaf1-4732-a6f0-81302e1b7e92)
 ![image](https://github.com/user-attachments/assets/bb6fe894-0206-4423-a324-92b429644512)
